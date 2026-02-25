@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+tqdm
+insightface
+onnxruntime
+huggingface_hub
